@@ -1,0 +1,2 @@
+###
+GET https://api.openweathermap.org/data/2.5/weather?q=kochi&appid=fb2a32ad5b3961ebc0f658c6cab5a545&units=metric
